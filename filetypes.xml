@@ -4,6 +4,7 @@
       <mapping pattern="bad" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="fillit" type="PLAIN_TEXT" />
+      <mapping pattern="author" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="testzero" type="PLAIN_TEXT" />
       <mapping ext="fdf" type="PLAIN_TEXT" />
