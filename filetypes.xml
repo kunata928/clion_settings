@@ -15,6 +15,7 @@
       <mapping pattern="09" type="PLAIN_TEXT" />
       <mapping pattern="author" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="10" type="PLAIN_TEXT" />
       <mapping pattern="testzero" type="PLAIN_TEXT" />
       <mapping ext="fdf" type="PLAIN_TEXT" />
     </extensionMap>
