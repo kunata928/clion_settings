@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="bad" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="04" type="PLAIN_TEXT" />
+      <mapping pattern="03" type="PLAIN_TEXT" />
       <mapping pattern="01" type="PLAIN_TEXT" />
       <mapping pattern="02" type="PLAIN_TEXT" />
       <mapping pattern="fillit" type="PLAIN_TEXT" />
