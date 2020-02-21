@@ -9,8 +9,14 @@
       <mapping pattern="04" type="PLAIN_TEXT" />
       <mapping pattern="03" type="PLAIN_TEXT" />
       <mapping pattern="02" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="13" type="PLAIN_TEXT" />
       <mapping pattern="fillit" type="PLAIN_TEXT" />
+      <mapping pattern="09" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="14" type="PLAIN_TEXT" />
+      <mapping pattern="12" type="PLAIN_TEXT" />
+      <mapping pattern="10" type="PLAIN_TEXT" />
       <mapping pattern="testzero" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
