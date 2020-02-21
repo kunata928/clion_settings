@@ -2,6 +2,9 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="05" type="PLAIN_TEXT" />
+      <mapping pattern="04" type="PLAIN_TEXT" />
+      <mapping pattern="03" type="PLAIN_TEXT" />
       <mapping pattern="02" type="PLAIN_TEXT" />
       <mapping pattern="fillit" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
