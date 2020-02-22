@@ -22,6 +22,7 @@
       <mapping pattern="10" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="testzero" type="PLAIN_TEXT" />
+      <mapping pattern="19" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
