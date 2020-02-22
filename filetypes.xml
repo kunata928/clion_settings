@@ -12,6 +12,7 @@
       <mapping pattern="13" type="PLAIN_TEXT" />
       <mapping pattern="fillit" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="18" type="PLAIN_TEXT" />
       <mapping pattern="17" type="PLAIN_TEXT" />
       <mapping pattern="16" type="PLAIN_TEXT" />
       <mapping pattern="15" type="PLAIN_TEXT" />
