@@ -9,6 +9,7 @@
       <mapping pattern="04" type="PLAIN_TEXT" />
       <mapping pattern="03" type="PLAIN_TEXT" />
       <mapping pattern="02" type="PLAIN_TEXT" />
+      <mapping pattern="20" type="PLAIN_TEXT" />
       <mapping pattern="13" type="PLAIN_TEXT" />
       <mapping pattern="fillit" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
