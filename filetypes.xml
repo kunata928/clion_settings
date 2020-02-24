@@ -1,6 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="18" type="PLAIN_TEXT" />
+      <mapping pattern="17" type="PLAIN_TEXT" />
+      <mapping pattern="16" type="PLAIN_TEXT" />
+      <mapping pattern="15" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="13" type="PLAIN_TEXT" />
+      <mapping pattern="12" type="PLAIN_TEXT" />
+      <mapping pattern="11" type="PLAIN_TEXT" />
+      <mapping pattern="10" type="PLAIN_TEXT" />
+      <mapping pattern="14" type="PLAIN_TEXT" />
       <mapping pattern="09" type="PLAIN_TEXT" />
       <mapping pattern="08" type="PLAIN_TEXT" />
       <mapping pattern="07" type="PLAIN_TEXT" />
@@ -9,25 +19,17 @@
       <mapping pattern="04" type="PLAIN_TEXT" />
       <mapping pattern="03" type="PLAIN_TEXT" />
       <mapping pattern="02" type="PLAIN_TEXT" />
-      <mapping pattern="20" type="PLAIN_TEXT" />
-      <mapping pattern="13" type="PLAIN_TEXT" />
-      <mapping pattern="fillit" type="PLAIN_TEXT" />
+      <mapping pattern="01" type="PLAIN_TEXT" />
+      <mapping pattern="auther" type="PLAIN_TEXT" />
+      <mapping pattern="testzero" type="PLAIN_TEXT" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="24" type="PLAIN_TEXT" />
       <mapping pattern="23" type="PLAIN_TEXT" />
       <mapping pattern="22" type="PLAIN_TEXT" />
       <mapping pattern="21" type="PLAIN_TEXT" />
-      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="20" type="PLAIN_TEXT" />
+      <mapping pattern="fillit" type="PLAIN_TEXT" />
       <mapping pattern="19" type="PLAIN_TEXT" />
-      <mapping pattern="18" type="PLAIN_TEXT" />
-      <mapping pattern="17" type="PLAIN_TEXT" />
-      <mapping pattern="16" type="PLAIN_TEXT" />
-      <mapping pattern="15" type="PLAIN_TEXT" />
-      <mapping pattern="14" type="PLAIN_TEXT" />
-      <mapping pattern="12" type="PLAIN_TEXT" />
-      <mapping pattern="11" type="PLAIN_TEXT" />
-      <mapping pattern="10" type="PLAIN_TEXT" />
-      <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="testzero" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
