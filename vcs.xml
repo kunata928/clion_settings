@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/kunata928/fractol.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ksean42/ft_printf" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CLionProjects" />
